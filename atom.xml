@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.chaowise.com</id>
+    <id>https://chaowise.coding.me</id>
     <title>Gridea</title>
-    <updated>2019-08-17T03:15:53.148Z</updated>
+    <updated>2019-08-17T03:23:58.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.chaowise.com"/>
-    <link rel="self" href="https://www.chaowise.com/atom.xml"/>
+    <link rel="alternate" href="https://chaowise.coding.me"/>
+    <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.chaowise.com/images/avatar.png</logo>
-    <icon>https://www.chaowise.com/favicon.ico</icon>
+    <logo>https://chaowise.coding.me/images/avatar.png</logo>
+    <icon>https://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.chaowise.com/post/hello-gridea</id>
-        <link href="https://www.chaowise.com/post/hello-gridea">
+        <id>https://chaowise.coding.me/post/hello-gridea</id>
+        <link href="https://chaowise.coding.me/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
