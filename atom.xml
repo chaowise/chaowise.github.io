@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.coding.me</id>
-    <title>Gridea</title>
-    <updated>2019-08-17T03:28:08.172Z</updated>
+    <title>大智慧</title>
+    <updated>2019-08-17T03:30:25.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.coding.me"/>
     <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>信仰为天，理性为地，知行合一</subtitle>
     <logo>https://chaowise.coding.me/images/avatar.png</logo>
     <icon>https://chaowise.coding.me/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 大智慧</rights>
     <entry>
         <title type="html"><![CDATA[效率之道]]></title>
         <id>https://chaowise.coding.me/post/xiao-lu-zhi-dao</id>
