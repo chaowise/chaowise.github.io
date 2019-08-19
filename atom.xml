@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.coding.me</id>
     <title>大智慧</title>
-    <updated>2019-08-19T03:12:44.610Z</updated>
+    <updated>2019-08-19T03:14:30.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.coding.me"/>
     <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://chaowise.coding.me/images/avatar.png</logo>
     <icon>https://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
+    <entry>
+        <title type="html"><![CDATA[3-风险]]></title>
+        <id>https://chaowise.coding.me/post/3-feng-xian</id>
+        <link href="https://chaowise.coding.me/post/3-feng-xian">
+        </link>
+        <updated>2019-08-19T03:13:09.000Z</updated>
+        <content type="html"><![CDATA[<p>评估风险大小，要先看最大损失是多少，如果无法承受就要尽力避免。<br>
+如果损失可以承受，然后才考虑期望。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1-意义、价值]]></title>
         <id>https://chaowise.coding.me/post/1-yi-yi-jie-zhi</id>
