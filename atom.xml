@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.coding.me</id>
     <title>大智慧</title>
-    <updated>2019-08-19T03:14:30.630Z</updated>
+    <updated>2019-08-21T00:15:39.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.coding.me"/>
     <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
@@ -11,38 +11,18 @@
     <icon>https://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
     <entry>
-        <title type="html"><![CDATA[3-风险]]></title>
-        <id>https://chaowise.coding.me/post/3-feng-xian</id>
-        <link href="https://chaowise.coding.me/post/3-feng-xian">
+        <title type="html"><![CDATA[什么是科学？]]></title>
+        <id>https://chaowise.coding.me/post/shi-me-shi-ke-xue</id>
+        <link href="https://chaowise.coding.me/post/shi-me-shi-ke-xue">
         </link>
-        <updated>2019-08-19T03:13:09.000Z</updated>
-        <content type="html"><![CDATA[<p>评估风险大小，要先看最大损失是多少，如果无法承受就要尽力避免。<br>
-如果损失可以承受，然后才考虑期望。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1-意义、价值]]></title>
-        <id>https://chaowise.coding.me/post/1-yi-yi-jie-zhi</id>
-        <link href="https://chaowise.coding.me/post/1-yi-yi-jie-zhi">
-        </link>
-        <updated>2019-08-17T03:38:17.000Z</updated>
-        <content type="html"><![CDATA[<p>什么叫有意义或有价值？<br>
-能够满足人（我或他人）需求（现在或将来）的产品（物品，事情，名气等）就叫做有价值的产品。<br>
-关键词：<strong>需求</strong>，<strong>产品</strong>，<strong>生产</strong>，<strong>交易</strong>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2-效率之道]]></title>
-        <id>https://chaowise.coding.me/post/xiao-lu-zhi-dao</id>
-        <link href="https://chaowise.coding.me/post/xiao-lu-zhi-dao">
-        </link>
-        <updated>2019-08-17T03:25:37.000Z</updated>
-        <content type="html"><![CDATA[<p>不做无意义的事。<br>
-制订计划，遵守计划。<br>
-优先计划重要的事。<br>
-借助工具。<br>
-改进方法。<br>
-外包任务。</p>
+        <updated>2019-08-21T00:12:46.000Z</updated>
+        <content type="html"><![CDATA[<p>科学是一种研究问题的方法。<br>
+提出理论（模型、假说、猜想等），然后做实验。<br>
+理论可以分为两类，A类是存在理论（存在某种事物），B类是所有理论（某范围的所有事物都遵从理论）。<br>
+A类理论能证实不能证伪，B类理论能证伪不能证实。<br>
+以B类理论为例，如果实验结果符合理论预期，那么这个理论我们就继续使用，如果不符合，那么我们就要么限制理论的使用范围，要么改进理论，扩展其适用范围。<br>
+明白了科学方法的局限性，我们就知道自己应该保持谦逊和谨慎，因为我们所认为的“真理”大概率只是暂时没被推翻而已。<br>
+由此可知，如果有人宣传自己掌握了真理，我们可以断定这与科学无关，或许可以归为信仰吧。但是如果他们强迫别人也相信他们坚持的“真理”，甚至如果别人不相信就要惩罚，我感觉这是在作恶吧。</p>
 ]]></content>
     </entry>
 </feed>
