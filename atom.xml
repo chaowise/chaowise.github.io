@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.coding.me</id>
     <title>大智慧</title>
-    <updated>2019-08-21T00:19:24.789Z</updated>
+    <updated>2019-08-22T06:28:14.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.coding.me"/>
     <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
@@ -10,19 +10,4 @@
     <logo>https://chaowise.coding.me/images/avatar.png</logo>
     <icon>https://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
-    <entry>
-        <title type="html"><![CDATA[什么是科学？]]></title>
-        <id>https://chaowise.coding.me/post/shi-me-shi-ke-xue</id>
-        <link href="https://chaowise.coding.me/post/shi-me-shi-ke-xue">
-        </link>
-        <updated>2019-08-21T00:12:46.000Z</updated>
-        <content type="html"><![CDATA[<p>科学是一种研究问题的方法。<br>
-提出理论（模型、假说、猜想等），然后做实验。</p>
-<p>理论可以分为两类，A类是存在理论（存在某种事物），B类是所有理论（某范围的所有事物都遵从理论）。<br>
-<strong>A类理论能证实不能证伪，B类理论能证伪不能证实</strong>。</p>
-<p>以B类理论为例，如果实验结果符合理论预期，那么这个理论我们就继续使用，如果不符合，那么我们就要么限制理论的使用范围，要么改进理论，扩展其适用范围。</p>
-<p>明白了科学方法的局限性，我们就知道自己应该保持谦逊和谨慎，因为我们所认为的“真理”大概率只是暂时没被推翻而已。</p>
-<p>由此可知，如果有人宣传自己掌握了真理，我们可以断定这与科学无关，或许可以归为信仰吧。但是如果他们强迫别人也相信他们坚持的“真理”，甚至如果别人不相信就要惩罚，我感觉这是在作恶吧。</p>
-]]></content>
-    </entry>
 </feed>
