@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.coding.me</id>
     <title>大智慧</title>
-    <updated>2019-08-30T01:34:45.762Z</updated>
+    <updated>2019-08-30T04:14:20.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.coding.me"/>
     <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://chaowise.coding.me/images/avatar.png</logo>
     <icon>https://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
+    <entry>
+        <title type="html"><![CDATA[写给弱者]]></title>
+        <id>https://chaowise.coding.me/post/xie-gei-ruo-zhe</id>
+        <link href="https://chaowise.coding.me/post/xie-gei-ruo-zhe">
+        </link>
+        <updated>2019-08-30T04:11:47.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="精英">精英</h1>
+<p>精英能够理解复杂的抽象概念，而普通人处处使用简单形象思维。<br>
+精英探索未知，而普通人恐惧未知。<br>
+精英能从长远打算，而普通人缺乏自控。<br>
+精英注重个人选择和自由，而普通人认为别人应该跟自己一样。<br>
+精英拥抱改变，而普通人拒绝改变。<br>
+精英跟各个阶层的人都有交往，而普通人只跟本阶层的人交往。<br>
+精英爱谈论想法，而普通人爱谈论人和东西。<br>
+精英把自由时间花在学习上，而普通人把自由时间花在娱乐上。<br>
+精英注重效率，而普通人注重公平。</p>
+<h1 id="混球思维">“混球”思维</h1>
+<p>从不维护自己的正确。<br>
+从不在乎别人的评价。<br>
+从不受制于他人的情感波动。<br>
+从不忌讳残忍的坦诚。<br>
+从不同情自己的遭遇。<br>
+从不停止疯狂的探索。<br>
+永远追求伟大的意义。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写给自己]]></title>
         <id>https://chaowise.coding.me/post/self</id>
@@ -43,14 +69,6 @@ two step from hell<br>
 <h2 id="共识">共识</h2>
 <p>双赢法。<br>
 接纳。</p>
-<h1 id="混球思维">“混球”思维</h1>
-<p>从不维护自己的正确。<br>
-从不在乎别人的评价。<br>
-从不受制于他人的情感波动。<br>
-从不忌讳残忍的坦诚。<br>
-从不同情自己的遭遇。<br>
-从不停止疯狂的探索。<br>
-永远追求伟大的意义。</p>
 ]]></content>
     </entry>
 </feed>
