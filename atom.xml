@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chaowise.coding.me</id>
+    <id>http://chaowise.coding.me</id>
     <title>大智慧</title>
-    <updated>2019-08-30T13:11:17.122Z</updated>
+    <updated>2019-09-01T05:36:08.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chaowise.coding.me"/>
-    <link rel="self" href="https://chaowise.coding.me/atom.xml"/>
+    <link rel="alternate" href="http://chaowise.coding.me"/>
+    <link rel="self" href="http://chaowise.coding.me/atom.xml"/>
     <subtitle>信仰为天，理性为地，知行合一</subtitle>
-    <logo>https://chaowise.coding.me/images/avatar.png</logo>
-    <icon>https://chaowise.coding.me/favicon.ico</icon>
+    <logo>http://chaowise.coding.me/images/avatar.png</logo>
+    <icon>http://chaowise.coding.me/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
     <entry>
         <title type="html"><![CDATA[写给弱者]]></title>
-        <id>https://chaowise.coding.me/post/xie-gei-ruo-zhe</id>
-        <link href="https://chaowise.coding.me/post/xie-gei-ruo-zhe">
+        <id>http://chaowise.coding.me/post/xie-gei-ruo-zhe</id>
+        <link href="http://chaowise.coding.me/post/xie-gei-ruo-zhe">
         </link>
         <updated>2019-08-30T04:11:47.000Z</updated>
         <content type="html"><![CDATA[<h1 id="精英">精英</h1>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[写给自己]]></title>
-        <id>https://chaowise.coding.me/post/self</id>
-        <link href="https://chaowise.coding.me/post/self">
+        <id>http://chaowise.coding.me/post/self</id>
+        <link href="http://chaowise.coding.me/post/self">
         </link>
         <updated>2019-08-27T06:49:07.000Z</updated>
         <content type="html"><![CDATA[<h1 id="人生">人生</h1>
