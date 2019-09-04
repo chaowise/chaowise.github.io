@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.github.io</id>
     <title>大智慧</title>
-    <updated>2019-09-04T04:30:02.013Z</updated>
+    <updated>2019-09-04T04:35:18.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.github.io"/>
     <link rel="self" href="https://chaowise.github.io/atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://chaowise.github.io/post/shi-yan-qian-ru-wen-jian">
         </link>
         <updated>2019-09-04T04:28:22.000Z</updated>
-        <content type="html"><![CDATA[<p>经济是如何运行的</p>
-<iframe src="https://onedrive.live.com/embed?cid=4001E8AA78B3D543&resid=4001E8AA78B3D543%217387&authkey=AM6FmrdiEBv5uL0&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>]]></content>
+        <content type="html"><![CDATA[<p><a href="http://chaowise.com/index.php?share/file&amp;user=1&amp;sid=3iFABnjG">实验</a></p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[写给弱者]]></title>
