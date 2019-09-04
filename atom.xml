@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.github.io</id>
     <title>大智慧</title>
-    <updated>2019-09-04T06:00:18.920Z</updated>
+    <updated>2019-09-04T08:34:41.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.github.io"/>
     <link rel="self" href="https://chaowise.github.io/atom.xml"/>
@@ -23,12 +23,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[写给弱者]]></title>
+        <title type="html"><![CDATA[参考]]></title>
         <id>https://chaowise.github.io/post/xie-gei-ruo-zhe</id>
         <link href="https://chaowise.github.io/post/xie-gei-ruo-zhe">
         </link>
         <updated>2019-08-30T04:11:47.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="精英">精英</h1>
+        <content type="html"><![CDATA[<h1 id="精英与常人">精英与常人</h1>
 <p>精英能够理解复杂的抽象概念，而普通人处处使用简单形象思维。<br>
 精英探索未知，而普通人恐惧未知。<br>
 精英能从长远打算，而普通人缺乏自控。<br>
@@ -46,6 +46,17 @@
 从不同情自己的遭遇。<br>
 从不停止疯狂的探索。<br>
 永远追求伟大的意义。</p>
+<h1 id="狐狸与刺猬">狐狸与刺猬</h1>
+<p>狐狸乐于接受新的信息。<br>
+狐狸对自己决策的信心远小于刺猬。<br>
+即使做过决定后，狐狸仍然想从不同的视角进行再思考。<br>
+狐狸总爱不断修正自己的预测。<br>
+狐狸也许不像刺猬一样对某个领域无比内行，但是他的知识面宽的多，了解很多事。<br>
+狐狸对很多事情持怀疑态度。<br>
+当考虑冲突的时候，狐狸能看到双方可能正确的方面。<br>
+狐狸喜欢与观点不同的人打交道。<br>
+狐狸在工作中并不追求明确的规则和秩序。<br>
+狐狸喜欢有多个答案的问题，他们在解决问题时常能发现多个选择。</p>
 ]]></content>
     </entry>
     <entry>
