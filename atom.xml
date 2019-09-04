@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.github.io</id>
     <title>大智慧</title>
-    <updated>2019-09-04T08:59:28.344Z</updated>
+    <updated>2019-09-04T09:03:33.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.github.io"/>
     <link rel="self" href="https://chaowise.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2019-09-04T04:28:22.000Z</updated>
         <content type="html"><![CDATA[<p><a href="http://chaowise.com/index.php?share/file&amp;user=1&amp;sid=3iFABnjG">实验</a><br>
-<a href="https://www.jianguoyun.com/p/DW0Se60Qs4juBRi30-wB">pdf</a><br>
+<a href="https://chaowisefile.oss-cn-beijing.aliyuncs.com/%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE.pdf">pdf</a><br>
 <a href="https://www.jianguoyun.com/p/DYsvcDAQs4juBRjEw-wB">markdown</a><br>
 <a href="http://www.chaowise.com/index.php?share/file&amp;user=1&amp;sid=Ss56veYT">word</a></p>
 ]]></content>
