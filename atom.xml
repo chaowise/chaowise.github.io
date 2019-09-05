@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.github.io</id>
     <title>大智慧</title>
-    <updated>2019-09-05T00:07:42.331Z</updated>
+    <updated>2019-09-05T00:11:29.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.github.io"/>
     <link rel="self" href="https://chaowise.github.io/atom.xml"/>
@@ -10,76 +10,4 @@
     <logo>https://chaowise.github.io/images/avatar.png</logo>
     <icon>https://chaowise.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大智慧</rights>
-    <entry>
-        <title type="html"><![CDATA[参考]]></title>
-        <id>https://chaowise.github.io/post/xie-gei-ruo-zhe</id>
-        <link href="https://chaowise.github.io/post/xie-gei-ruo-zhe">
-        </link>
-        <updated>2019-08-30T04:11:47.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="精英与常人">精英与常人</h1>
-<p>精英能够理解复杂的抽象概念，而普通人处处使用简单形象思维。<br>
-精英探索未知，而普通人恐惧未知。<br>
-精英能从长远打算，而普通人缺乏自控。<br>
-精英注重个人选择和自由，而普通人认为别人应该跟自己一样。<br>
-精英拥抱改变，而普通人拒绝改变。<br>
-精英跟各个阶层的人都有交往，而普通人只跟本阶层的人交往。<br>
-精英爱谈论想法，而普通人爱谈论人和东西。<br>
-精英把自由时间花在学习上，而普通人把自由时间花在娱乐上。<br>
-精英注重效率，而普通人注重公平。</p>
-<h1 id="混球思维">“混球”思维</h1>
-<p>从不维护自己的正确。<br>
-从不在乎别人的评价。<br>
-从不受制于他人的情感波动。<br>
-从不忌讳残忍的坦诚。<br>
-从不同情自己的遭遇。<br>
-从不停止疯狂的探索。<br>
-永远追求伟大的意义。</p>
-<h1 id="狐狸与刺猬">狐狸与刺猬</h1>
-<p>狐狸乐于接受新的信息。<br>
-狐狸对自己决策的信心远小于刺猬。<br>
-即使做过决定后，狐狸仍然想从不同的视角进行再思考。<br>
-狐狸总爱不断修正自己的预测。<br>
-狐狸也许不像刺猬一样对某个领域无比内行，但是他的知识面宽的多，了解很多事。<br>
-狐狸对很多事情持怀疑态度。<br>
-当考虑冲突的时候，狐狸能看到双方可能正确的方面。<br>
-狐狸喜欢与观点不同的人打交道。<br>
-狐狸在工作中并不追求明确的规则和秩序。<br>
-狐狸喜欢有多个答案的问题，他们在解决问题时常能发现多个选择。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写给自己]]></title>
-        <id>https://chaowise.github.io/post/self</id>
-        <link href="https://chaowise.github.io/post/self">
-        </link>
-        <updated>2019-08-27T06:49:07.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="做什么">做什么</h1>
-<p>学法，炼功。<br>
-严格遵守计划。<br>
-寻找自己的行动核心。</p>
-<h1 id="效率之道">效率之道</h1>
-<h2 id="心法">心法</h2>
-<p>不要等，不要靠。<br>
-做计划，守计划。<br>
-尽人事，听天命。</p>
-<h2 id="算法">算法</h2>
-<p>不做无意义的事。<br>
-制定计划，遵守计划。<br>
-优先计划重要的事。<br>
-借助工具。<br>
-改进方法。<br>
-外包任务。</p>
-<h1 id="交流">交流</h1>
-<h2 id="尊重">尊重</h2>
-<p>不评价人，说自己的感受。<br>
-不强迫人，说自己的请求。</p>
-<h2 id="共知">共知</h2>
-<p>通过交流，增加共知。</p>
-<h2 id="共识">共识</h2>
-<p>双赢法。<br>
-接纳。</p>
-<h1 id="财富">财富</h1>
-<p>做大概率成功，并且可重复的事情。</p>
-]]></content>
-    </entry>
 </feed>
