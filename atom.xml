@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chaowise.github.io</id>
+    <id>https://chaowise.com</id>
     <title>新视界</title>
-    <updated>2019-09-05T00:33:36.518Z</updated>
+    <updated>2019-09-05T00:35:34.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chaowise.github.io"/>
-    <link rel="self" href="https://chaowise.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chaowise.com"/>
+    <link rel="self" href="https://chaowise.com/atom.xml"/>
     <subtitle>梦想为天，理性为地，知行合一</subtitle>
-    <logo>https://chaowise.github.io/images/avatar.png</logo>
-    <icon>https://chaowise.github.io/favicon.ico</icon>
+    <logo>https://chaowise.com/images/avatar.png</logo>
+    <icon>https://chaowise.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 新视界</rights>
     <entry>
         <title type="html"><![CDATA[常识3-谨慎跟风评论]]></title>
-        <id>https://chaowise.github.io/post/chang-shi-3-jin-shen-gen-feng-ping-lun</id>
-        <link href="https://chaowise.github.io/post/chang-shi-3-jin-shen-gen-feng-ping-lun">
+        <id>https://chaowise.com/post/chang-shi-3-jin-shen-gen-feng-ping-lun</id>
+        <link href="https://chaowise.com/post/chang-shi-3-jin-shen-gen-feng-ping-lun">
         </link>
         <updated>2019-09-05T00:31:53.000Z</updated>
         <content type="html"><![CDATA[<p>操纵舆论，公众杀人<br>
@@ -22,8 +22,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[常识2-科学方法]]></title>
-        <id>https://chaowise.github.io/post/chang-shi-2-ke-xue-fang-fa</id>
-        <link href="https://chaowise.github.io/post/chang-shi-2-ke-xue-fang-fa">
+        <id>https://chaowise.com/post/chang-shi-2-ke-xue-fang-fa</id>
+        <link href="https://chaowise.com/post/chang-shi-2-ke-xue-fang-fa">
         </link>
         <updated>2019-09-05T00:30:50.000Z</updated>
         <content type="html"><![CDATA[<p>什么是科学？<br>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[常识1-选择改变概率]]></title>
-        <id>https://chaowise.github.io/post/chang-shi-1-xuan-ze-gai-bian-gai-lu</id>
-        <link href="https://chaowise.github.io/post/chang-shi-1-xuan-ze-gai-bian-gai-lu">
+        <id>https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu</id>
+        <link href="https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu">
         </link>
         <updated>2019-09-05T00:29:49.000Z</updated>
         <content type="html"><![CDATA[<p>两个按钮实验<br>
