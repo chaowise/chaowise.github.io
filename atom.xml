@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.com</id>
     <title>新视界</title>
-    <updated>2019-10-14T11:09:59.329Z</updated>
+    <updated>2019-10-14T11:15:35.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.com"/>
     <link rel="self" href="https://chaowise.com/atom.xml"/>
@@ -11,40 +11,21 @@
     <icon>https://chaowise.com/favicon.ico</icon>
     <rights>All rights reserved 2019, 新视界</rights>
     <entry>
-        <title type="html"><![CDATA[常识3-谨慎跟风评论]]></title>
-        <id>https://chaowise.com/post/chang-shi-3-jin-shen-gen-feng-ping-lun</id>
-        <link href="https://chaowise.com/post/chang-shi-3-jin-shen-gen-feng-ping-lun">
-        </link>
-        <updated>2019-09-05T00:31:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>操纵舆论，公众杀人<br>
-黄金法则</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>操纵舆论，公众杀人<br>
-黄金法则</p>
-<!-- more -->
-<p>just have a try.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常识2-科学方法]]></title>
-        <id>https://chaowise.com/post/chang-shi-2-ke-xue-fang-fa</id>
-        <link href="https://chaowise.com/post/chang-shi-2-ke-xue-fang-fa">
-        </link>
-        <updated>2019-09-05T00:30:50.000Z</updated>
-        <content type="html"><![CDATA[<p>什么是科学？<br>
-两类命题，存在，所有<br>
-对于无限集合，存在问题可证实不可证伪，所有问题可证伪不可证实。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常识1-选择改变概率]]></title>
+        <title type="html"><![CDATA[常识]]></title>
         <id>https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu</id>
         <link href="https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu">
         </link>
         <updated>2019-09-05T00:29:49.000Z</updated>
-        <content type="html"><![CDATA[<p>两个按钮实验<br>
-两个罐子，红球黑球实验<br>
-<img src="https://chaowise.com/post-images/1571051366651.jpg" alt=""></p>
+        <content type="html"><![CDATA[<h1 id="选择改变概率">选择改变概率</h1>
+<p>两个按钮实验<br>
+两个罐子，红球黑球实验</p>
+<h1 id="科学方法">科学方法</h1>
+<p>什么是科学？<br>
+两类命题，存在，所有<br>
+对于无限集合，存在问题可证实不可证伪，所有问题可证伪不可证实。</p>
+<h1 id="谨慎跟风评论">谨慎跟风评论</h1>
+<p>操纵舆论，公众杀人<br>
+黄金法则</p>
 ]]></content>
     </entry>
 </feed>
