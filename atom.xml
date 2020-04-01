@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaowise.com</id>
     <title>智慧树</title>
-    <updated>2019-12-25T02:08:53.720Z</updated>
+    <updated>2020-04-01T12:49:16.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaowise.com"/>
     <link rel="self" href="https://chaowise.com/atom.xml"/>
     <subtitle>梦想为天，理性为地，知行合一</subtitle>
     <logo>https://chaowise.com/images/avatar.png</logo>
     <icon>https://chaowise.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, 智慧树</rights>
+    <rights>All rights reserved 2020, 智慧树</rights>
     <entry>
         <title type="html"><![CDATA[高中物理]]></title>
-        <id>https://chaowise.com/post/shu-xue-gong-shi</id>
-        <link href="https://chaowise.com/post/shu-xue-gong-shi">
+        <id>https://chaowise.com/post/shu-xue-gong-shi/</id>
+        <link href="https://chaowise.com/post/shu-xue-gong-shi/">
         </link>
         <updated>2019-10-14T11:23:42.000Z</updated>
         <content type="html"><![CDATA[<p><a href="http://note.youdao.com/noteshare?id=61ad96f287c9810d4d2cf26e8b29ed6f">高中物理答疑</a></p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学习常识]]></title>
-        <id>https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu</id>
-        <link href="https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu">
+        <id>https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/</id>
+        <link href="https://chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/">
         </link>
         <updated>2019-09-05T00:29:49.000Z</updated>
         <content type="html"><![CDATA[<p>提高学习效果的三个努力方向：身体，心境，方法。</p>
