@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://self.chaowise.com</id>
+    <id>https://2020.chaowise.com</id>
     <title>智慧树</title>
-    <updated>2020-04-19T03:35:39.854Z</updated>
+    <updated>2020-04-19T11:19:50.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://self.chaowise.com"/>
-    <link rel="self" href="https://self.chaowise.com/atom.xml"/>
+    <link rel="alternate" href="https://2020.chaowise.com"/>
+    <link rel="self" href="https://2020.chaowise.com/atom.xml"/>
     <subtitle>梦想为天，理性为地，知行合一</subtitle>
-    <logo>https://self.chaowise.com/images/avatar.png</logo>
-    <icon>https://self.chaowise.com/favicon.ico</icon>
+    <logo>https://2020.chaowise.com/images/avatar.png</logo>
+    <icon>https://2020.chaowise.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 智慧树</rights>
     <entry>
         <title type="html"><![CDATA[高中物理]]></title>
-        <id>https://self.chaowise.com/post/shu-xue-gong-shi/</id>
-        <link href="https://self.chaowise.com/post/shu-xue-gong-shi/">
+        <id>https://2020.chaowise.com/post/shu-xue-gong-shi/</id>
+        <link href="https://2020.chaowise.com/post/shu-xue-gong-shi/">
         </link>
         <updated>2019-10-14T11:23:42.000Z</updated>
         <content type="html"><![CDATA[<p><a href="http://note.youdao.com/noteshare?id=61ad96f287c9810d4d2cf26e8b29ed6f">高中物理答疑</a></p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[学习常识]]></title>
-        <id>https://self.chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/</id>
-        <link href="https://self.chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/">
+        <id>https://2020.chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/</id>
+        <link href="https://2020.chaowise.com/post/chang-shi-1-xuan-ze-gai-bian-gai-lu/">
         </link>
         <updated>2019-09-05T00:29:49.000Z</updated>
         <content type="html"><![CDATA[<p>提高学习效果的三个努力方向：身体，心境，方法。</p>
